@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter",
+      "author": "J.K Rowling",
+      "cost": 300
+    },
+    {
+      "id": 2,
+      "title": "Harry Potter",
+      "author": "J.K Rowling",
+      "cost": 300
+    },
+    {
+      "id": 3,
+      "title": "Harry Potter",
+      "author": "J.K Rowling",
+      "cost": 300
+    },
+    {
+      "id": 4,
+      "title": "Harry Potter",
+      "author": "J.K Rowling",
+      "cost": 300
+    },
+    {
+      "id": 5,
+      "title": "alchemist",
+      "author": "Paulo Coelho",
+      "cost": 200
+    },
+    {
+      "id": 6,
+      "title": "temp",
+      "author": "Known",
+      "cost": 200
+    }
+  ]
+}
